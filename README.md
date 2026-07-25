@@ -62,6 +62,3 @@ A few judgment calls shaped this analysis. Documenting them here rather than bur
 
 Excel (data collection) → Power Query (cleaning, type conversion) → Power BI (data model, DAX measures, dashboard).
 
-## Author
-
-Mateusz Piaskowski — built as a portfolio project for QA / Data Analyst applications in Poznań.
